@@ -1,29 +1,29 @@
 {
   "main": {
-    "name":"Hollie Mansfield",
-    "occupation":"Risk & Compliance Analyst looking for opportunities in Tech.",
-    "description":"Looking for an exciting opportunity to challenge myself in a programming capacity",
+    "name":"Hollie Allington-Kay",
+    "occupation":"Senior Operational Risk Manager",
+    "description":"Working in FinTech Bank, Development Lead for the LGBTQ+ Network, and coordinating British Sign Language Community at Monzo",
     "image":"header-background.jpg",
-    "bio":"I am a determined person with strong empathetic, organisational and communication skills. I am currently employed at Monzo within the second line of defence as a Risk & Compliance Analyst. I am critical of my own progress while consistently driving to learn more, most recently challenging myself to expand my technical knowledge in SQL, Python3 and React, and completed my ICA certificate in AML, passing with distinction. I was born in Northern Ireland but grew up travelling; spending the bulk of my childhood in Kenya, East Africa. Whilst travelling, I was able to widen my outlook on life, develop my cross-cultural competencies and adaptibility. This also developed a large passion for animal conservation and illegal wildlife trafficking.",
+    "bio":"I am a determined person with strong empathetic, organisational and communication skills. I am currently employed at Monzo within the second line of defence as a Senior Operational Risk Manager - working primarily with Payments, Third Party Risk Management and Finance. I am critical of my own progress while consistently driving to learn more, most recently challenging myself to expand my technical knowledge in SQL, Python3 and React. I have completed both my CertIRM in Risk Management in Financial Services, and an  ICA certificate in AML (distinction). I was born in Northern Ireland but grew up travelling; spending the bulk of my childhood in Kenya, East Africa. Whilst travelling, I was able to widen my outlook on life, develop my cross-cultural competencies and adaptibility. This also developed a large passion for animal conservation and illegal wildlife trafficking.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "holliemansfield@gmail.com",
+    "email": "hollieallingtonkay@gmail.com",
     "phone": "+44 7375459715",
     "address":{
-      "street":"Royal Arsenal Woolwich",
+      "street":"Blackheath",
       "city":"London",
-      "zip": "SE18"
+      "zip": "SE3"
     },
     "website": "http://www.holliemansfield.github.io/react-cv/",
-    "resumedownload":"http://holliemansfield.com",
+    "resumedownload":"http://hollieallingtonkay.com",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/holliemansfield/",
+        "url":"https://www.linkedin.com/in/hollieallingtonkay/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/hollie_mansfield",
+        "url":"http://instagram.com/hollie_allingtonkay",
         "className":"fa fa-instagram"
       },
       {
@@ -69,6 +69,10 @@
       }
     ],
     "skills":[
+       {
+        "name":"International Certification in Financial Services Risk Management - Completed January 2022",
+        "level":"100%"
+      },
       {
         "name":"SQL Course - Completed May 2020",
         "level":"100%"
@@ -118,13 +122,9 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Available upon reuqest.",
+        "user":" "
       },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
-      }
     ]
   }
 }
