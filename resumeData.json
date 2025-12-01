@@ -2,10 +2,10 @@
   "main": {
     "name":"Hollie Allington-Kay",
     "occupation":"Senior Operational Risk Manager",
-    "description":"Working in FinTech Bank, Development Lead for the LGBTQ+ Network, and coordinating British Sign Language Community at Monzo",
+    "description":"Additional Roles include: Development Lead for the LGBTQ+ Network, and coordinating British Sign Language Community at Monzo",
     "image":"header-background.jpg",
     "bio":"I am a determined person with strong empathetic, organisational and communication skills. I am currently employed at Monzo within the second line of defence as a Senior Operational Risk Manager - working primarily with Payments, Third Party Risk Management and Finance. I am critical of my own progress while consistently driving to learn more, most recently challenging myself to expand my technical knowledge in SQL, Python3 and React. I have completed both my CertIRM in Risk Management in Financial Services, and an  ICA certificate in AML (distinction). I was born in Northern Ireland but grew up travelling; spending the bulk of my childhood in Kenya, East Africa. Whilst travelling, I was able to widen my outlook on life, develop my cross-cultural competencies and adaptibility. This also developed a large passion for animal conservation and illegal wildlife trafficking.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":" ",
     "email": "hollieallingtonkay@gmail.com",
     "phone": "+44 7375459715",
     "address":{
@@ -20,11 +20,6 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/hollieallingtonkay/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/hollie_allingtonkay",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -57,9 +52,21 @@
     "work":[
       {
         "company":"Monzo",
+        "title":"Senior Operational Risk Manager",
+        "years":"Nov 2024 - Present",
+        "description":"Senior Operational Risk Manager covering all components of Operational Risk primarily parterning with Payments, Third Party Risk, and Finance. Supporting Product areas with risk assessment and treatment plans for changes to people, processes, systems, introduction of new products, whilst considering key dependencies and/or impacts to overall resilience. With a strong consideration for inclusion and career development of others through participation in side of desk activities including but not limited to: Team Lead with two direct reports, Development Lead for the LGBTQ+ Network, Coordinator for the British Sign Language Community, and Mentoring in a company wide Mentorship Programme."
+      },
+      {
+        "company":"Monzo",
+        "title":"Operational Risk Manager",
+        "years":"Jul 2021 - Nov 2024",
+        "description":"Operational Risk Manager covering all components of Operational Risk primarily parterning with Payments, Third Party, Financial Crime and Fraud Departments."
+      },
+      {
+        "company":"Monzo",
         "title":"Risk & Compliance Analyst",
-        "years":"Aug 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years":"Aug 2020 - Jul 2021",
+        "description":"Working on various analysis pieces for Operational Risk, Fincrime Compliance and Enterprise Risk Teams, including but not limited to Incident Management. Coordinating Committees through pack creation, minutes creation and tracking of committee actions."
       },
       {
         "company":"Monzo",
@@ -78,12 +85,12 @@
         "level":"100%"
       },
       {
-        "name":"Python 3 Course- Completed June 2020",
-        "level":"65%"
-      },
-      {
         "name":"JPMC Experience in Software Engineering - Completed June 2020 ",
         "level":"100%"
+      },
+      {
+        "name":"Python 3 Course- Completed June 2020",
+        "level":"65%"
       },
       {
         "name":"React Course",
@@ -108,14 +115,14 @@
       {
         "title":"JPMC-tech-task-3-PY",
         "category":"JPMC Experience in Software Engineering",
-        "image":"JMPC.jpg",
+        "image":"JMPC.png",
         "url":"https://github.com/holliemansfield/JPMC-tech-task-3-PY3"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"hollies-resume.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://cv.hollieallkay.workers.dev/"
       }
     ]
   },
